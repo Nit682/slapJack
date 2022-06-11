@@ -1,4 +1,4 @@
-# slapJack
+# SlapJack
 
 I recently learned about the fundamental characteristics of advanced Java OOP: encapsulation, polymorphism, and inheritance. I learned about static methods and instances, overloaded methods, interfaces, abstraction, class hiearchy, and more. To practice these new concepts, I built SlapJack as an efficient, convenient, and simple-to-use console game application.
 
